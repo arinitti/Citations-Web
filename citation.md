@@ -1,7 +1,7 @@
 
-
 A New Proposed Website Citation Method
 Alexandra Andrews
+02.27.19
 
 In 2019, we are amid a major historical development change. The modern Internet revolution started in the 1960s. The world-wide web is the largest expanding library. Changes in business, science, medicine, the arts, social networks, literacy, and more are occurring every day.
 
@@ -47,3 +47,5 @@ Works Cited
     5. Price, Amy, “The unintended consequences of tai chi for fibromyalgia” https://blogs.bmj.com/bmj/2018/03/21/amy-price-the-unintended-consequences-of-tai-chi-for-fibromyalgia/
     6. Rosenbaum, Ernest H., and Isadora R. Rosenbaum. Everyone's Guide to Cancer Supportive Care: a Comprehensive Handbook for Patients and Their Families. Andrews McMeel Pub., 2005.
     7. Rosenbaum, Ernest H., and Isadora R. Rosenbaum. Supportive Cancer Care: the Complete Guide for Patients and Their Families. Sourcebooks, 2001.
+
+First appeared at CancerLynx.com/citation.html 
