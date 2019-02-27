@@ -1,6 +1,8 @@
 
 A New Proposed Website Citation Method
+
 Alexandra Andrews
+
 02.27.19
 
 In 2019, we are amid a major historical development change. The modern Internet revolution started in the 1960s. The world-wide web is the largest expanding library. Changes in business, science, medicine, the arts, social networks, literacy, and more are occurring every day.
@@ -25,13 +27,15 @@ In the article by Amy Price: The unintended consequences of tai chi for fibromya
     There are no internal hyperlinks.
 
 Advantages to writing the citations in this example are:
+
     - 1. Much easier to code the page. When browsers make updates, the changes may affect the display. Web sites and web pages may become unreadable.
-
+    
     - 2. Avoids the problem of the super/subscript hyperlink causing text display issues. Sometimes the text line breaks up because of super/subscripts. This may become an issue when printing or resizing the page.
-
+    
     - 3. There are concerns about page display worldwide due to different devices, browsers, and bandwidth. A quick test regarding how many shades of white exist.
+    
     Create a simple html page with the tag for body bgcolor = white or the ffffff hex color. Display the page using different browsers and devices. Prepare to be amazed!
-
+    
     - 4. No dreaded period. A period in UNIX means, Do it again. The World Wide Web obeys UNIX rules. 97% of internet devices use variants of UNIX. The endless loop possibility created by the period exists. Some coders when there is a web address at the end of a sentence ignore adding the period and leave an extra space. Others place a space between the web address and the period.
 
 Because there is no concordance on how to cite medical articles, The British Medical Journal offers several choices. The bmj.com provides several  citation manager choices: BibTeX (win & mac); EndNote (tagged); EndNote 8 (xml); RefWorks Tagged (win & mac); RIS (win only) and Medlars. The web designer and maintainer must plan for the possibility any of these formats may disappear at any moment.
@@ -40,12 +44,19 @@ Innovate and Expand Modern Writing
 Internet publishing is valuable for health and scientific topics. A paper printed text cannot change. My coauthored cancer books [6,7] are in library collections. Some information is wrong and outdated. I cringe when I see them. Remember, sometimes the standard cancer therapy of yesterday may be dangerous. One must prepare for dynamic change, when designing websites for mulitple devices. How to update a website, with backwards compatibility is a constant issue. The proposed citation method is a useful tool for modern web publishing.
 
 Works Cited
+
     1. Dollinger, Malin, et al. Everyone's Guide to Cancer Therapy: How Cancer Is Diagnosed, Treated, and Managed Day to Day. Andrews McMeel Pub., 1997.
+    
     2. Dollinger, Malin, and Malin Dollinger. Everyone's Guide to Cancer Therapy: How Cancer Is Diagnosed, Treated, and Managed Day to Day. Andrews McMeel Pub., 2002
+    
     3. “Table of Contents for Everyone's Guide to Cancer Survivorship.” Table of Contents for Gender, Sex and Translation, catdir.loc.gov/catdir/toc/ecip0718/2007019862.html.
+    
     4. “The BMJ: Leading General Medical Journal. Research. Education. Comment | The BMJ.” The BMJ: Leading General Medical Journal. Research. Education. Comment | The BMJ, bmj.com/.
+    
     5. Price, Amy, “The unintended consequences of tai chi for fibromyalgia” https://blogs.bmj.com/bmj/2018/03/21/amy-price-the-unintended-consequences-of-tai-chi-for-fibromyalgia/
+    
     6. Rosenbaum, Ernest H., and Isadora R. Rosenbaum. Everyone's Guide to Cancer Supportive Care: a Comprehensive Handbook for Patients and Their Families. Andrews McMeel Pub., 2005.
+    
     7. Rosenbaum, Ernest H., and Isadora R. Rosenbaum. Supportive Cancer Care: the Complete Guide for Patients and Their Families. Sourcebooks, 2001.
 
 First appeared at CancerLynx.com/citation.html 
