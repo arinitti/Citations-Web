@@ -41,7 +41,7 @@ Advantages to writing the citations in this example are:
 Because there is no concordance on how to cite medical articles, The British Medical Journal offers several choices. The bmj.com provides several  citation manager choices: BibTeX (win & mac); EndNote (tagged); EndNote 8 (xml); RefWorks Tagged (win & mac); RIS (win only) and Medlars. The web designer and maintainer must plan for the possibility any of these formats may disappear at any moment.
 
 Innovate and Expand Modern Writing
-Internet publishing is valuable for health and scientific topics. A paper printed text cannot change. My coauthored cancer books [6,7] are in library collections. Some information is wrong and outdated. I cringe when I see them. Remember, sometimes the standard cancer therapy of yesterday may be dangerous. One must prepare for dynamic change, when designing websites for mulitple devices. How to update a website, with backwards compatibility is a constant issue. The proposed citation method is a useful tool for modern web publishing.
+Internet publishing is valuable for health and scientific topics. A paper printed text cannot change. My coauthored cancer books [6,7] are in library collections. Some information is wrong and outdated. I cringe when I see them. Remember, sometimes the standard cancer therapy of yesterday may be dangerous. One must prepare for dynamic change, when designing websites for multiple devices. How to update a website, with backwards compatibility is a constant issue. The proposed citation method is a useful tool for modern web publishing.
 
 Works Cited
 
